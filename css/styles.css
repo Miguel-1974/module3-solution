@@ -5,6 +5,12 @@ body {
   font-family: sans-serif;
 }
 
+
+.navbar-header
+{
+  margin-left: : 5px;
+}
+
 .navbar-brand a
 {
   color: Black;
